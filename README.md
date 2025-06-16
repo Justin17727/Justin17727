@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Justin Joseph 👋
 
-<!--
-**Justin17727/Justin17727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+
+- 🎓 3rd year B.Tech student specializing in *Artificial Intelligence & Data Science*
+- 💻 Learning the fundamentals of Computer Science using *C*, *Java*, and *Python*
+- 📈 Consistently in the *topper's list* with a strong foundation in *mathematics*
+- 🚀 Currently exploring programming and building my own projects step by step
+
+---
+
+## 🛠 Skills
+
+- *Programming Languages*:  
+  - C (fundamentals)  
+  - Java (fundamentals)  
+  - Python (fundamentals)  
+
+---
+
+## 🌱 What I'm Working On
+
+As a learner, I’m currently focused on:
+- Strengthening my programming skills
+- Exploring basic projects to apply my knowledge
+- Building a strong foundation for future work in AI and Data Science
+
+---
+
+## 🎯 Academic Achievements
+
+- Consistently among the top performers in my academic program
+- Passionate about learning, problem-solving, and continuous improvement
+
+---
+
+## 🎮 Outside of Tech
+
+- 🏸 Love playing *Badminton*
+- 🎮 Enjoy *mobile gaming* in my free time
+- 📺 Watch *YouTube* for entertainment and learning
+
+---
+
+## 📫 Let’s Connect
+
+I'm currently not active on social media, but feel free to check out my repositories or drop a message on GitHub if you'd like to connect or collaborate!
+
+---
+
+Thanks for stopping by! 👋
