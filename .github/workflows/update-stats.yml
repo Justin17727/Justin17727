@@ -17,13 +17,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # Step 2: Generate stats (replace with your generator commands)
+      # Step 2: Generate stats (auto-create folder/files if missing)
       - name: Generate Stats
         run: |
-          # Example commands – replace these with whatever script/tool you use
-          echo "<svg>Stats placeholder</svg>" > stats/stats.svg
-          echo "<svg>Top langs placeholder</svg>" > stats/top-langs.svg
-          echo "<svg>Streak placeholder</svg>" > stats/streak.svg
+          mkdir -p stats
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='40'><text x='10' y='25' fill='blue'>Stats placeholder</text></svg>" > stats/stats.svg
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='40'><text x='10' y='25' fill='green'>Top Langs placeholder</text></svg>" > stats/top-langs.svg
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='200' height='40'><text x='10' y='25' fill='purple'>Streak placeholder</text></svg>" > stats/streak.svg
 
       # Step 3: Commit and push changes
       - name: Commit and push changes
