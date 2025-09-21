@@ -1,11 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=70186B&center=true&vCenter=true&width=500&lines=Hello+World;Justin+Here)
 
-<ul>
-<li style='color:#BA29B0'>🎓 3rd year B.Tech student specializing in</span> <span style='color:#FF00F3'>Artificial Intelligence & Data Science</span></li>
-<li style='color:#BA29B0'>💻 Learning the fundamentals of Computer Science using *C*, *Java*, and *Python*</></li>
-<li style='color:#BA29B0'>📈 Consistently in the *topper's list* with a strong foundation in *mathematics*</></li>
-<li style='color:#BA29B0'>🚀 Currently </><span style='color:#FF00F3'>exploring programming</span><span style='color:#BA29B0'> and building my own projects step by step </span></li>
-</ul>
+
+- 🎓 3rd year B.Tech student specializing in Artificial Intelligence & Data Science
+- 💻 Learning the fundamentals of Computer Science using *C*, *Java*, and *Python*
+- 📈 Consistently in the *topper's list* with a strong foundation in *mathematics*
+- 🚀 Currently exploring programming and building my own projects step by step 
+
 ---
 
 ![GitHub Stats](stats/stats.svg)
