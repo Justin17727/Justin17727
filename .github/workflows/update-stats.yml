@@ -1,37 +1,30 @@
 name: Update GitHub Profile Stats
 
-# Run daily at midnight UTC, also manual trigger
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # Run manually
   workflow_dispatch:
+  # Run once per day at 5:30 AM IST (00:00 UTC)
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Generate GitHub Stats
-      run: |
-        # Create a folder for generated SVGs if it doesn't exist
-        mkdir -p stats
+      - name: Generate Stats
+        run: |
+          mkdir -p stats
+          curl -o stats/stats.svg "https://github-readme-stats.vercel.app/api?username=Justin17727&show_icons=true&count_private=true&theme=tokyonight"
+          curl -o stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Justin17727&layout=compact&theme=tokyonight"
+          curl -o stats/streak.svg "https://streak-stats.demolab.com?user=Justin17727&theme=tokyonight&hide_border=true"
 
-        # Generate main stats (including private repos)
-        curl -o stats/stats.svg "https://github-readme-stats.vercel.app/api?username=Justin17727&show_icons=true&count_private=true&theme=tokyonight"
-
-        # Generate top languages chart
-        curl -o stats/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Justin17727&layout=compact&theme=tokyonight"
-
-        # Generate streak card
-        curl -o stats/streak.svg "https://streak-stats.demolab.com?user=Justin17727&theme=tokyonight&hide_border=true"
-
-    - name: Commit and push updates
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add stats/*.svg
-        git commit -m "Update GitHub profile stats" || echo "No changes to commit"
-        git push
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/*.svg
+          git commit -m "Update GitHub profile stats" || echo "No changes to commit"
+          git push
