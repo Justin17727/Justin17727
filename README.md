@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=70186B&center=true&vCenter=true&width=500&lines=Hello+World;Justin+Here)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=DB427A&center=true&vCenter=true&width=500&lines=Hello+World;Justin+Here)
 
 </div>
 
@@ -54,6 +54,5 @@ As a learner, I’m currently focused on:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justin17727)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinjoseph17727)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Justin17727)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://justinjoseph17727@gmail.com)
 
 </div>
