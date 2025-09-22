@@ -1,18 +1,21 @@
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=70186B&center=true&vCenter=true&width=500&lines=Hello+World;Justin+Here)
 
+</div>
 
 - 🎓 3rd year B.Tech student specializing in Artificial Intelligence & Data Science
 - 💻 Learning the fundamentals of Computer Science using *C*, *Java*, and *Python*
 - 📈 Consistently in the *topper's list* with a strong foundation in *mathematics*
 - 🚀 Currently exploring programming and building my own projects step by step 
 
----
 
 |          **My GitHub Stats**          |
 |:-------------------------------------:|
 |   ![GitHub Stats](stats/stats.svg)    |
 | ![Top Languages](stats/top-langs.svg) |
 |  ![GitHub Streak](stats/streak.svg)   |
+
 
 ---
 
@@ -46,8 +49,11 @@ As a learner, I’m currently focused on:
 
 ## Socials
 
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justin17727)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinjoseph17727)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Justin17727)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://justinjoseph17727@gmail.com)
+
+</div>
