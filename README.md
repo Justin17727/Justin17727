@@ -8,19 +8,30 @@
 
 ---
 
-![GitHub Stats](stats/stats.svg)
-
-![Top Languages](stats/top-langs.svg)
-
-![GitHub Streak](stats/streak.svg)
+|          **My GitHub Stats**          |
+|:-------------------------------------:|
+|   ![GitHub Stats](stats/stats.svg)    |
+| ![Top Languages](stats/top-langs.svg) |
+|  ![GitHub Streak](stats/streak.svg)   |
 
 ---
-## 🛠 Skills
 
-- *Programming Languages*:  
-  - C (fundamentals)  
-  - Java (fundamentals)  
-  - Python (fundamentals)  
+## Tech Stack
+
+### Languages:
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+</div>
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50"/>
+</div>
 
 ---
 
@@ -33,25 +44,10 @@ As a learner, I’m currently focused on:
 
 ---
 
-## 🎯 Academic Achievements
+## Socials
 
-- Consistently among the top performers in my academic program
-- Passionate about learning, problem-solving, and continuous improvement
 
----
-
-## 🎮 Outside of Tech
-
-- 🏸 Love playing *Badminton*
-- 🎮 Enjoy *mobile gaming* in my free time
-- 📺 Watch *YouTube* for entertainment and learning
-
----
-
-## 📫 Let’s Connect
-
-I'm currently not active on social media, but feel free to check out my repositories or drop a message on GitHub if you'd like to connect or collaborate!
-
----
-
-Thanks for stopping by! 👋
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justin17727)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinjoseph17727)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Justin17727)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://justinjoseph17727@gmail.com)
