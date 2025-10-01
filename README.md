@@ -11,10 +11,12 @@
 
 <div align="center">
 
-    My GitHub Stats
+## My GitHub Stats
 
 ![GitHub Stats](stats/stats.svg)    
+
 ![Top Languages](stats/top-langs.svg) 
+
 ![GitHub Streak](stats/streak.svg)   
 
 </div>
