@@ -9,19 +9,20 @@
 - 📈 Consistently in the *topper's list* with a strong foundation in *mathematics*
 - 🚀 Currently exploring programming and building my own projects step by step 
 
+<div align="center">
 
-|          **My GitHub Stats**          |
-|:-------------------------------------:|
-|   ![GitHub Stats](stats/stats.svg)    |
-| ![Top Languages](stats/top-langs.svg) |
-|  ![GitHub Streak](stats/streak.svg)   |
+    My GitHub Stats
 
+![GitHub Stats](stats/stats.svg)    
+![Top Languages](stats/top-langs.svg) 
+![GitHub Streak](stats/streak.svg)   
+
+</div>
 
 ---
 
 ## Tech Stack
 
-### Languages:
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
